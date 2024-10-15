@@ -2,6 +2,6 @@
 name: logo-rose-primaire.svg
 size: 1683
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVjMjEwZTIwLWNiYmQtNDE3Yy1hZDM3LWVkNjRjMDk4Yjk4YyIsInB1ciI6ImJsb2JfaWQifX0=--63871861e6b289d138c8797635750dde8dbdc59d/logo-rose-primaire.svg
-direct_url: https://osuny.s3.fr-par.scw.cloud/xh5drjis0utyoac3o7kvd9pir4vx
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVjMjEwZTIwLWNiYmQtNDE3Yy1hZDM3LWVkNjRjMDk4Yjk4YyIsInB1ciI6ImJsb2JfaWQifX0=--4c8dc8bd44e439c8bbbbbb4c637c5277891f0455/logo-rose-primaire.svg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xh5drjis0utyoac3o7kvd9pir4vx
 

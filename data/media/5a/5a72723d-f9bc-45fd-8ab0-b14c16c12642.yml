@@ -5,6 +5,6 @@ width: 448
 height: 560
 ratio: 0.8
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVhNzI3MjNkLWY5YmMtNDVmZC04YWIwLWIxNGMxNmMxMjY0MiIsInB1ciI6ImJsb2JfaWQifX0=--b1d20862013ae166e995e0bd9c08978a59e17a3c/Rectangle-477.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/sh8obix1uv31xd8of6pfrd2ms718
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVhNzI3MjNkLWY5YmMtNDVmZC04YWIwLWIxNGMxNmMxMjY0MiIsInB1ciI6ImJsb2JfaWQifX0=--b86183fbf3b34a98a412b0503b2d8446edaf1576/Rectangle-477.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/sh8obix1uv31xd8of6pfrd2ms718
 

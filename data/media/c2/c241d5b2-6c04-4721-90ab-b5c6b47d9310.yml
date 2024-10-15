@@ -5,6 +5,6 @@ width: 1600
 height: 1067
 ratio: 1.499531396438613
 format: landscape
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMyNDFkNWIyLTZjMDQtNDcyMS05MGFiLWI1YzZiNDdkOTMxMCIsInB1ciI6ImJsb2JfaWQifX0=--c6189f5e4b3a7d3ed027ed22e76517b67542919b/DTS_Grand_Design_Daniel_Faro_4089.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/4uz3w22v0euaw3s2bj8u30kva1ju
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMyNDFkNWIyLTZjMDQtNDcyMS05MGFiLWI1YzZiNDdkOTMxMCIsInB1ciI6ImJsb2JfaWQifX0=--c6775de7d523ef4fa50e1ba39502d8e93585a4df/DTS_Grand_Design_Daniel_Faro_4089.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4uz3w22v0euaw3s2bj8u30kva1ju
 

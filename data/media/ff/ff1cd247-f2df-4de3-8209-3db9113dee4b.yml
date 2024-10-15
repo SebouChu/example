@@ -5,6 +5,6 @@ width: 150
 height: 150
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZmMWNkMjQ3LWYyZGYtNGRlMy04MjA5LTNkYjkxMTNkZWU0YiIsInB1ciI6ImJsb2JfaWQifX0=--3b7549e087a15dc0aa8862c9ac047c5c65466542/euro_843708.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/lc741kffpy3tkx593r6rcmx96d47
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZmMWNkMjQ3LWYyZGYtNGRlMy04MjA5LTNkYjkxMTNkZWU0YiIsInB1ciI6ImJsb2JfaWQifX0=--3b5914e3d9c2aaccb7dcfb8e28036256121fa705/euro_843708.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/lc741kffpy3tkx593r6rcmx96d47
 

@@ -5,6 +5,6 @@ width: 448
 height: 448
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkzNDNjZmFjLTYzNTUtNGYxZi04ZTk5LTVkMjRlZjk1Mjg4NyIsInB1ciI6ImJsb2JfaWQifX0=--2b61fcc749cfd9d2b10f6fa23273d1cb43520c8d/actu_cyclone-5.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/krdotf9r4kkeoz0znyw4igqz9b25
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkzNDNjZmFjLTYzNTUtNGYxZi04ZTk5LTVkMjRlZjk1Mjg4NyIsInB1ciI6ImJsb2JfaWQifX0=--8edb9ab589d8a802b3c2c5c15294bcbac5b07227/actu_cyclone-5.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/krdotf9r4kkeoz0znyw4igqz9b25
 

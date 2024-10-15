@@ -5,6 +5,6 @@ width: 1067
 height: 1600
 ratio: 0.666875
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRhZmIxZjJkLWMxNGMtNDRmZi04ZGU5LTBkZmIwZThiOTc1MiIsInB1ciI6ImJsb2JfaWQifX0=--b48ce5d72c996834ae31b880858c7cd46531b261/DTS_Grand_Design_Daniel_Faro_4092.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/yb6m12ily8tdcr915c1iqd618lpy
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRhZmIxZjJkLWMxNGMtNDRmZi04ZGU5LTBkZmIwZThiOTc1MiIsInB1ciI6ImJsb2JfaWQifX0=--6ae5f10d64f00728a0135b412abd0676ce6c64f3/DTS_Grand_Design_Daniel_Faro_4092.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/yb6m12ily8tdcr915c1iqd618lpy
 
