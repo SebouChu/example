@@ -30,12 +30,12 @@ design:
 
 position: 2
 children:
-  - /offre-de-formation/animation-sociale-et-socioculturelle/
   - /offre-de-formation/lorem-ipsum/
+  - /offre-de-formation/animation-sociale-et-socioculturelle/
   - /offre-de-formation/information-communication/
   - /offre-de-formation/coordination-de-projets-de-developpement-social-et-culturel/
-  - /offre-de-formation/contribuer-avec-osuny/
   - /offre-de-formation/doctorat-sciences-de-l-information-et-de-la-communication/
+  - /offre-de-formation/contribuer-avec-osuny/
   - /offre-de-formation/formation-test/
   - /offre-de-formation/metiers-du-multimedia-et-de-l-internet/
 translationKey: communication-website-post-category-e4b2ec6f-0a0f-4dc5-be61-dd69cdf60398
@@ -48,19 +48,27 @@ summary: >-
   
 
 contents_reading_time:
-  seconds: 12
+  seconds: 13
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Présentation
-    slug: "presentation"
-    position: 1
-    rank: 2
+    slug: >-
+      presentation
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -81,16 +89,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Les offres
-    slug: "les-offres"
-    position: 2
-    rank: 2
+    slug: >-
+      les-offres
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: definitions
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -123,6 +138,8 @@ contents:
     template: call_to_action
     title: >-
       Mise en avant d'une offre
+    slug: >-
+      mise-en-avant-d-une-offre
     ranks:
       self: 3
     data:
@@ -153,7 +170,6 @@ contents:
             
 
           target_blank: false
-
 
 
 

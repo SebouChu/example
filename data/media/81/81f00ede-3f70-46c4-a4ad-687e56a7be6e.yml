@@ -5,6 +5,6 @@ width: 1920
 height: 1920
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgxZjAwZWRlLTNmNzAtNDZjNC1hNGFkLTY4N2U1NmE3YmU2ZSIsInB1ciI6ImJsb2JfaWQifX0=--0e3918e7b5d3d9c5d230b9c2183b536aad6f7239/arnaud.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/d12zmbu6198nvll79dy4tjuwyst5
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgxZjAwZWRlLTNmNzAtNDZjNC1hNGFkLTY4N2U1NmE3YmU2ZSIsInB1ciI6ImJsb2JfaWQifX0=--0756ef10e4a8341a16dc5b71d1c867eebeca9923/arnaud.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/d12zmbu6198nvll79dy4tjuwyst5
 

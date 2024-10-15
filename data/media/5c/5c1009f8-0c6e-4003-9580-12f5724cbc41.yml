@@ -5,6 +5,6 @@ width: 448
 height: 560
 ratio: 0.8
 format: portrait
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjMTAwOWY4LTBjNmUtNDAwMy05NTgwLTEyZjU3MjRjYmM0MSIsInB1ciI6ImJsb2JfaWQifX0=--c4117bccd500e99865b0495d5531bb39be2c3cd9/DTS_The_Internet_Fanette_Guilloud_5229-4.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/qf4bgk6siipcuql1os3iyrdfxm6q
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjMTAwOWY4LTBjNmUtNDAwMy05NTgwLTEyZjU3MjRjYmM0MSIsInB1ciI6ImJsb2JfaWQifX0=--36907b5ad4ece0165be81abd196b6ac875f3a734/DTS_The_Internet_Fanette_Guilloud_5229-4.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qf4bgk6siipcuql1os3iyrdfxm6q
 
