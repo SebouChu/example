@@ -5,6 +5,6 @@ width: 960
 height: 960
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcxYWFhNjMzLWY5YjYtNDBmZi1iMTA1LTZiMzc1ZWZhZjk0MSIsInB1ciI6ImJsb2JfaWQifX0=--29ad5276b09ce4aa0dcc34b54e809593d67bcfde/DTS_Parole-Dure_La-Calma_7-9.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/vjm0d8mi38g93l0r382bdxdlz60g
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjcxYWFhNjMzLWY5YjYtNDBmZi1iMTA1LTZiMzc1ZWZhZjk0MSIsInB1ciI6ImJsb2JfaWQifX0=--0802f46d2434543f90fe10bfa695f4f5db442430/DTS_Parole-Dure_La-Calma_7-9.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/vjm0d8mi38g93l0r382bdxdlz60g
 

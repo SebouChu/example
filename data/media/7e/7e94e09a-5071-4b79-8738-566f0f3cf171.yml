@@ -5,6 +5,6 @@ width: 1000
 height: 1000
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlOTRlMDlhLTUwNzEtNGI3OS04NzM4LTU2NmYwZjNjZjE3MSIsInB1ciI6ImJsb2JfaWQifX0=--a9f8057946a74dac9a98944dad6ce5fff991ff19/Capture-d-ecran-2024-06-26-a-16-08-57.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/uxrne3054m3wrlnvgbz8raqmvl2w
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlOTRlMDlhLTUwNzEtNGI3OS04NzM4LTU2NmYwZjNjZjE3MSIsInB1ciI6ImJsb2JfaWQifX0=--de47fd750146d82c739876f567a37f5399b7dbc2/Capture-d-ecran-2024-06-26-a-16-08-57.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/uxrne3054m3wrlnvgbz8raqmvl2w
 

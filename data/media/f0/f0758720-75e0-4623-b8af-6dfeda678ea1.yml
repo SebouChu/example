@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImYwNzU4NzIwLTc1ZTAtNDYyMy1iOGFmLTZkZmVkYTY3OGVhMSIsInB1ciI6ImJsb2JfaWQifX0=--12cf98e77e613703b28c8f39421c2558eb0f7f7a/Ferretti.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/xe3paje5czmq9ilbqd0iaogr7xcx
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImYwNzU4NzIwLTc1ZTAtNDYyMy1iOGFmLTZkZmVkYTY3OGVhMSIsInB1ciI6ImJsb2JfaWQifX0=--8fa03e99ccf75d6eab53eac6868f2ec14b512393/Ferretti.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xe3paje5czmq9ilbqd0iaogr7xcx
 

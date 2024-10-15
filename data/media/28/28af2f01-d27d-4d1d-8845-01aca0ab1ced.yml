@@ -2,6 +2,6 @@
 name: image-30.svg
 size: 16463
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI4YWYyZjAxLWQyN2QtNGQxZC04ODQ1LTAxYWNhMGFiMWNlZCIsInB1ciI6ImJsb2JfaWQifX0=--737fa16bbc2d26c296f817ffdd66ebf19e58c543/image-30.svg
-direct_url: https://osuny.s3.fr-par.scw.cloud/wloa13aigy37qn6i4l57a1pe2p2q
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI4YWYyZjAxLWQyN2QtNGQxZC04ODQ1LTAxYWNhMGFiMWNlZCIsInB1ciI6ImJsb2JfaWQifX0=--9f41c8b1452e47c2fa40c7edcfb25c0bef4b8594/image-30.svg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/wloa13aigy37qn6i4l57a1pe2p2q
 

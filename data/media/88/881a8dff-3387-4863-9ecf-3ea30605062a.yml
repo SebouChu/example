@@ -5,6 +5,6 @@ width: 400
 height: 400
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4MWE4ZGZmLTMzODctNDg2My05ZWNmLTNlYTMwNjA1MDYyYSIsInB1ciI6ImJsb2JfaWQifX0=--918417350f73e91a011c8cad4d69e848f1121f37/ClaraRigaud.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/t6fz1gs47llladg2armgto5agsw4
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4MWE4ZGZmLTMzODctNDg2My05ZWNmLTNlYTMwNjA1MDYyYSIsInB1ciI6ImJsb2JfaWQifX0=--749e05676143eaaa1ef1e3a7a08f09297f0b3372/ClaraRigaud.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/t6fz1gs47llladg2armgto5agsw4
 

@@ -5,6 +5,6 @@ width: 447
 height: 447
 ratio: 1.0
 format: square
-url: https://demo.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIzMGZkMzk3LTk0NjUtNGU0YS1hMTIwLWEyZTAwYzAwYzE0OSIsInB1ciI6ImJsb2JfaWQifX0=--b287fc956f0c5ea4ea768a41c43e8746d05c49ff/actu_respiro-1.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/ltzipeqm9ou7egztmp9qja26k8z6
+url: http://demo.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIzMGZkMzk3LTk0NjUtNGU0YS1hMTIwLWEyZTAwYzAwYzE0OSIsInB1ciI6ImJsb2JfaWQifX0=--00040802cfd5cf35521e78a817581a91d1d80a1a/actu_respiro-1.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ltzipeqm9ou7egztmp9qja26k8z6
 
